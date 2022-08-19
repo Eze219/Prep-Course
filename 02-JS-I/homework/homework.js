@@ -4,19 +4,19 @@
 const nuevaString = "Hola";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = "8";
+const nuevoNum = null;
 
 // Crea una variable booleana:
-const nuevoBool = "true";
+const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - 5 === 5;
+const nuevaResta = 10 - 5 === null;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * 4 === 40 ;
+const nuevaMultiplicacion = 10 * 4 === null;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 4,2 ;
+const nuevoModulo = 21 % 5 === null ;
 
 
 // En los próximos 22 problemas, deberás completar la función.
